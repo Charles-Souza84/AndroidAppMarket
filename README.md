@@ -2,6 +2,19 @@
 
 Aplicativos mobile estão em todos os lugares. Eles são fáceis de criar e podem ser lucrativos. Por conta destes dois fatores, cada vez mais aplicativos são criados. Neste notebook será feita uma análise do mercado de aplicativos Android utilizando dados de milhares de aplicativos do Google Play distribuídos em diversas categorias.
 ___
+# Arquivos utilizados
+
+A geração dos arquivos utilizados neste projeto fogem ao objetivo do mesmo, tendo sido obtidos por meio da plataforma de estudos  **DataCamp** .
+___
+# Bibliotecas utilizadas
+
+No desenvolvimento deste projeto foram utilizadas as seguintes bibliotecas:
+* Pandas
+* NumPy
+* Seaborn
+* Warnings
+* Matplotlib
+___
 # Etapas do projeto
 
 Este projeto foi dividido nas seguintes etapas :
@@ -17,14 +30,5 @@ Este projeto foi dividido nas seguintes etapas :
 * análise de opinião das avaliações dos usuários;
 
 Cada etapa possui um pequeno texto introdutório com eventuais observações/conclusões a respeito da mesma e o código desenvolvido em Python.
-___
-# Bibliotecas utilizadas
-
-No desenvolvimento deste projeto foram utilizadas as seguintes bibliotecas:
-* Pandas
-* NumPy
-* Seaborn
-* Warnings
-* Matplotlib
 ___
 
